@@ -1,4 +1,4 @@
-# Arthmetic Operators:
+# Arthmetic Operators: (+, -, *, /, %, **, //)
 
 var_1 = 2
 var_2 = 5
@@ -49,7 +49,7 @@ print(c6)
 
 print()
 
-# Assignment Operator
+# Assignment Operator: (=, +=, -=, *=, /=, %=, **=, //=)
  
 v1 = 10
 v2 = v1
@@ -104,6 +104,42 @@ print()
 u1 = 10
 print(u1)
 print(-u1)
+
+print()
+
+# Relational operators (>, >=, <, <=, ==, !=)
+
+r1 = 10
+print(r1 > 5)
+
+print()
+
+r2 = 20
+print(r2 < 10)
+
+print()
+
+r3 = 10
+r4 = 8
+print(r3 >= r4)
+
+print()
+
+r5 = 90
+r6 = 89
+print(r5 <= r6)
+
+print()
+
+v7 = 90
+v8 = 90
+print(v7 == v8)
+
+print()
+
+v9 = 10
+v10 = 54
+print(v9 != v10)
 
 print()
 

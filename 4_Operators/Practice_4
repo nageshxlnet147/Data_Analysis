@@ -151,11 +151,22 @@ print(l1 > l2  and l2 < l1)
 
 print()
 
-print(l1 or l2)
+print(l1 > l2  or l2 < l1)
 
 print()
 
 print(not l1)
+
+print()
+
+# Membership operators (in, not in)
+
+mem = [1,5,8,3,6]
+print(5 in mem)
+
+print()
+
+print(90 not in mem)
 
 print()
 

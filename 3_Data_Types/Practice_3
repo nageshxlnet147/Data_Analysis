@@ -1,0 +1,90 @@
+"""
+There are two type of data types.
+1. Built-in data types
+2. User defined data types
+
+Built-in data types:
+✓ The data types which are already existing in python are called built-in
+data types.
+1. Numeric types
+	int
+	float
+	complex
+2. bool (boolean type)
+3. None
+4.Sequence
+	str
+	list
+	tuple
+	set
+	dict
+	range
+"""
+
+var_1 = 10
+print(type(var_1))
+prin(var_1)
+
+print()
+
+var_2 = 11.1
+print(type(var_2))
+print(var_2)
+
+print()
+
+var_3 = 23
+c = complex(var_3)
+print(type(var_3))
+print(type(c))
+print(var_3)
+print(c)
+
+print()
+
+var_4 = True
+print(type(var_4))
+print(var_4)
+
+print()
+
+var_5 = None
+print(type(var_5))
+print(var_5)
+
+print()
+
+var_6 = "Nagesh"
+print(type(var_6))
+print(var_6)
+
+print()
+
+var_7 = []
+print(type(var_7))
+print(var_7)
+
+print()
+
+var_8 = tuple()
+print(type(var_8))
+print(var_8)
+
+print()
+
+var_9 = set()
+print(type(var_9))
+print(var_9)
+
+print()
+
+var_10 = {}
+print(type(var_10))
+print(var_10)
+
+print()
+
+var_11 = range(1, 5)
+print(type(var_11))
+print(var_11)
+

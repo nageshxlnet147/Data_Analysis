@@ -99,4 +99,11 @@ print(v9)
 
 print()
 
+# Unary minus operator: (-)
+
+u1 = 10
+print(u1)
+print(-u1)
+
+print()
 

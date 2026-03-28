@@ -143,3 +143,19 @@ print(v9 != v10)
 
 print()
 
+# Logical operators (and, or, not)
+
+l1 = 10
+l2 = 7
+print(l1 > l2  and l2 < l1)
+
+print()
+
+print(l1 or l2)
+
+print()
+
+print(not l1)
+
+print()
+

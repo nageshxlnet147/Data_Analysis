@@ -23,7 +23,7 @@ data types.
 
 var_1 = 10
 print(type(var_1))
-prin(var_1)
+print(var_1)
 
 print()
 

@@ -2,11 +2,14 @@ variable_1 = 10
 variable_2 = 10.1
 variable_3 = 'N'
 variable_4 = "Nagesh"
+print(variable_1, variable_2, variable_3, variable_4)
 
 # Creating Multiple Variable in single line
 
 a, b, c, d= 10, 10.2, 'N', "Nagesh" 
-
-print(variable_1, variable_2, variable_3, variable_4)
-print()
 print(a, b, c, d)
+
+# Assign a single value to multiple variable
+
+x = y = z = 10
+print(x, y, z)

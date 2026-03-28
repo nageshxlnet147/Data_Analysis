@@ -1,0 +1,6 @@
+variable_1 = 10
+variable_2 = 10.1
+variable_3 = 'N'
+variable_4 = "Nagesh"
+
+print(variable_1, variable_2, variable_3, variable_4)
